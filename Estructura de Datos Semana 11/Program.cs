@@ -9,7 +9,7 @@ class Traductor
     {
         { "time", "tiempo" }, { "person", "persona" }, { "day", "dia" }, { "world", "mundo" },
         { "life", "vida" }, { "hand", "mano" }, { "part", "parte" }, { "eye", "ojo" },
-        { "woman", "mujer" }, { "place", "lugar" }{ "water", "agua" }, { "house", "casa" }, 
+        { "woman", "mujer" }, { "place", "lugar" }, { "water", "agua" }, { "house", "casa" }, 
         { "car", "auto" }, { "tree", "arbol" }, { "sun", "sol" } 
     };
 

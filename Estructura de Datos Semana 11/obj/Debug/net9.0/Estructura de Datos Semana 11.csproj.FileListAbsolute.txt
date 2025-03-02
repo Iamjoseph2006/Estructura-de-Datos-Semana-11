@@ -12,3 +12,4 @@ c:\Users\DELL\Downloads\UEA 2025\Estructura de Datos\Estructura de Datos 2do Par
 c:\Users\DELL\Downloads\UEA 2025\Estructura de Datos\Estructura de Datos 2do Parcial\SEMANA 11\Estructura de Datos Semana 11\Estructura de Datos Semana 11\obj\Debug\net9.0\Estructura de Datos Semana 11.pdb
 c:\Users\DELL\Downloads\UEA 2025\Estructura de Datos\Estructura de Datos 2do Parcial\SEMANA 11\Estructura de Datos Semana 11\Estructura de Datos Semana 11\obj\Debug\net9.0\Estructura de Datos Semana 11.genruntimeconfig.cache
 c:\Users\DELL\Downloads\UEA 2025\Estructura de Datos\Estructura de Datos 2do Parcial\SEMANA 11\Estructura de Datos Semana 11\Estructura de Datos Semana 11\obj\Debug\net9.0\ref\Estructura de Datos Semana 11.dll
+c:\Users\DELL\Downloads\UEA 2025\Estructura de Datos\Estructura de Datos 2do Parcial\SEMANA 11\Estructura de Datos Semana 11\Estructura de Datos Semana 11\obj\Debug\net9.0\Estructura de Datos Semana 11.sourcelink.json
